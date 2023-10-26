@@ -1,6 +1,17 @@
-### Hi there 👋
+# Buenas! 👋
+
+## Este es el resumen actual de mi perfil en github:
 
 ![eduardomhd stats](https://github-readme-stats.vercel.app/api?username=eduardomhd&show_icons=true&locale=en)
+
+### Actualmente trabajo para Abbott Laboratories, en la división de Diagnostics & Core, como Field Service Engineer.
+
+### Mis gustos y aficiones son las siguientes:
+
+- Deportes, sobre todo fútbol.
+- Naturaleza (montaña, playa, bosque...)
+- Videojuegos; principalmente los de juego en equipo (FC 24 u otros)
+
 
 
 <!--
